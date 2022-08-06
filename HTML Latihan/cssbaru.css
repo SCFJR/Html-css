@@ -1,0 +1,44 @@
+body {
+  background-color: #162719;
+  color: #F2E8CF;
+}
+
+h2 {
+  color: #F2E8CF;
+  font-family: arial;
+}
+
+h1 {
+	font-family: arial;
+	font-size: 30px;
+	font-variant: small-caps;
+  	color: #F2E8CF;
+}
+
+h5 {
+  	color: #F2E8CF;
+}
+
+h3 {
+	font-family: arial;
+	font-wight: bold;
+  	color: #F2E8CF;
+}
+
+p {
+	font-family: Century Gothic;
+	font-weight: bold;
+  	color: #F2E8CF;
+}
+
+form {
+  	font-family: arial;
+}
+
+ul {
+  	font-family: Century Gothic;
+}
+
+table {
+	text-align: center;
+}
